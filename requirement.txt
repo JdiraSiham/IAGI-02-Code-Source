@@ -1,0 +1,8 @@
+# Streamlit : création d'applications web interactives en Python streamlit
+# PuLP : résolution de problèmes d'optimisation linéaire (simplexe, etc.) pulp
+# Pandas : manipulation et analyse des données (tableaux, DataFrame) pandas
+# vous pouvez installer la bibliothèque en utilisant la commande suivante: pip install -r requirement.txt
+ 
+pulp==2.8.0
+streamlit
+pandas
