@@ -34,21 +34,21 @@ pip install -r requirement.txt
 
 ## 2. Exécution du projet
 
-1. Installer les dépendances :
+### 1. Installer les dépendances :
 ```bash
 pip install -r requirement.txt
 ```
-2. Lancer la résolution et l’optimisation :
+### 2. Lancer la résolution et l’optimisation :
 ```bash
 python main.py
 ```
 
-3. Lancer les tests :
+### 3. Lancer les tests :
 ```bash
 python test.py
 ```
 
-4. Lancer l’interface graphique :
+### 4. Lancer l’interface graphique :
 ```bash
 streamlit run interface.py
 ```
