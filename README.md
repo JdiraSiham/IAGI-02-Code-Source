@@ -2,7 +2,7 @@ Ce dossier regroupe l’ensemble des fichiers développés dans le cadre de ce p
 
 ---
 
-## Contenu du dossier
+## 1. Contenu du dossier
 
 ### main.py
 Ce fichier contient le cœur du projet.  
@@ -32,7 +32,7 @@ pip install -r requirement.txt
 
 ---
 
-## Exécution du projet
+## 2. Exécution du projet
 
 1. Installer les dépendances :
 ```bash
