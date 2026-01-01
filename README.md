@@ -23,7 +23,7 @@ L’interface permet de :
 - modifier les paramètres du problème de programmation linéaire ;
 - visualiser l’impact de chaque paramètre sur la solution.
 
-### requirements.txt
+### requirement.txt
 Ce fichier contient la liste des bibliothèques Python nécessaires pour exécuter le projet.  
 Il permet d’installer facilement toutes les dépendances avec la commande :
 ```bash
@@ -36,7 +36,7 @@ pip install -r requirement.txt
 
 1. Installer les dépendances :
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 2. Lancer la résolution et l’optimisation :
 ```bash
