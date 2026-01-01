@@ -36,17 +36,18 @@ Il permet d’installer facilement toutes les dépendances.
 1. Installer les dépendances :
 ```bash
 pip install -r requirements.txt
-
+```
 2. Lancer la résolution et l’optimisation :
 ```bash
 python main.py
-
+```
 
 3. Lancer les tests :
 ```bash
 python test.py
-
+```
 
 4. Lancer l’interface graphique :
 ```bash
 streamlit run interface.py
+```
