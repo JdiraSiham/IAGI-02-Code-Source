@@ -1,4 +1,4 @@
-Ce dossier regroupe l’ensemble des fichiers développés dans le cadre de ce projet,   dont l’objectif principal est la **modélisation**, la **résolution** et l’**optimisation** d’un problème de **programmation linéaire** à l’aide du langage **Python**.
+Ce dossier regroupe l’ensemble des fichiers développés dans le cadre de ce projet, dont l’objectif principal est la **modélisation**, la **résolution** et l’**optimisation** d’un problème de **programmation linéaire** à l’aide du langage **Python**.
 
 ---
 
@@ -25,7 +25,10 @@ L’interface permet de :
 
 ### requirements.txt
 Ce fichier contient la liste des bibliothèques Python nécessaires pour exécuter le projet.  
-Il permet d’installer facilement toutes les dépendances.
+Il permet d’installer facilement toutes les dépendances avec la commande :
+```bash
+pip install -r requirement.txt
+```
 
 ---
 
