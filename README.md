@@ -1,6 +1,4 @@
-Ce dossier regroupe l’ensemble des fichiers développés dans le cadre de ce projet,  
-dont l’objectif principal est la **modélisation**, la **résolution** et l’**optimisation**
-d’un problème de **programmation linéaire** à l’aide du langage **Python**.
+Ce dossier regroupe l’ensemble des fichiers développés dans le cadre de ce projet,   dont l’objectif principal est la **modélisation**, la **résolution** et l’**optimisation** d’un problème de **programmation linéaire** à l’aide du langage **Python**.
 
 ---
 
