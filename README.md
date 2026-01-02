@@ -52,3 +52,17 @@ python test.py
 ```bash
 streamlit run interface.py
 ```
+---
+
+## 3. Démonstration de l’interface graphique
+
+Une vidéo de démonstration du fonctionnement de l’interface graphique est disponible ici :
+
+[▶️ **Vidéo de démonstration**](https://drive.google.com/file/d/1d6yogGRf2OJCR9NekWNAIc7AptNhgs9H/view?usp=sharing)
+
+La vidéo illustre :
+- le lancement de l’interface Streamlit ;
+- la modification des paramètres du modèle ;
+- la visualisation de l’impact sur la solution optimale ;
+- l’analyse des résultats.
+
